@@ -2,8 +2,6 @@
 
 ### A minimal Windows 11 configuration using Mica transparency, acrylic blur, and WinUI 3 design language across the browser, terminal, taskbar, and File Explorer.
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-Minimal-1a1a2e?style=for-the-badge&logoColor=white" />
@@ -12,6 +10,8 @@
 </p>
 
 <p align="center"><b>Wallpaper:</b> <a href="https://wallhaven.cc/w/o5ly2l">wallhaven.cc/w/o5ly2l</a></p>
+
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header" width="100%"></picture>
 
 ## Preview
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"></picture>
 
 ## Tools
 
@@ -41,7 +41,7 @@
 | File Explorer blur | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) |
 | Cursor | [JimmyXD2 Cursor Pack](https://www.deviantart.com/jimmyxd2/art/1208233550) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,28&height=4&section=header" width="100%"></picture>
 
 ## Setup
 
@@ -59,7 +59,7 @@
 
 Additional visual tweaks are available as boolean keys in `about:config`. Full list in the [Firefox-WinUI docs](https://github.com/Lockframe/Firefox-WinUI#settings).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=198754&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,6&height=4&section=header" width="100%"></picture>
 
 ### Windhawk
 
@@ -69,7 +69,7 @@ Additional visual tweaks are available as boolean keys in `about:config`. Full l
    - Taskbar: [pastebin.com/qM0WLtch](https://pastebin.com/qM0WLtch)
    - Start Menu: [pastebin.com/834WW7me](https://pastebin.com/834WW7me)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6e40c9&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,9,17&height=4&section=header" width="100%"></picture>
 
 ### DWMBlurGlass
 
@@ -83,7 +83,7 @@ Hooks into the Desktop Window Manager to apply Mica or Acrylic effects to all ti
 
 > Do not run alongside MicaForEveryone as both target the same DWM pipeline.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd7e14&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,22,4&height=4&section=header" width="100%"></picture>
 
 ### ExplorerBlurMica
 
@@ -95,13 +95,13 @@ Applies Mica or Acrylic to File Explorer without modifying system files.
 
 To uninstall, run `uninstall.cmd` as administrator.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=20c997&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,5,13&height=4&section=header" width="100%"></picture>
 
 ### Windows Terminal
 
 Open **Settings > Appearance** for your active profile. Enable **Use acrylic material** and set **Background opacity** to `30`.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=e83e8c&height=4&section=header" width="100%" />
+<picture><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,18,25&height=4&section=header" width="100%"></picture>
 
 ### Cursor
 
